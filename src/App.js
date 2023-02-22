@@ -4,6 +4,7 @@ import FinanceCarousel from './component/Finance/FinanceCarousel'
 import ProjectBlock from "./component/NewProject/ProjectBlock";
 import OptionBlock from "./component/OptionPanel/OptionBlock";
 import HomeBlock from "./component/HomeAd/HomeBlock";
+import React from 'react'; import ReactDOM from 'react-dom';
 
 function App() {
   return (

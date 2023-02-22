@@ -1,5 +1,6 @@
 import InterestList from './InterestList'
 import SearchBar from './SearchBar';
+import React from 'react'; import ReactDOM from 'react-dom';
 
 
 export default function SeachBlock(){
