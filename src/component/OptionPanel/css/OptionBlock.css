@@ -1,0 +1,12 @@
+#optionBlock{
+  text-align: center;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+#optionTitle{
+  display:block;
+  text-align: center;
+  margin-top: 20vh;
+}

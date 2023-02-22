@@ -1,0 +1,29 @@
+.projectInfo{
+    min-width:23vw;
+    height: 50vh;
+    margin: 3vh 1vw;
+    border-radius: 5px;
+}
+.projectImg{
+    width:23vw;
+    height:20vh;
+}
+.projectName{
+    font-size:0.7em;
+    margin: 5% 90% 0% 5%;
+}
+.projectAddress{
+    font-size:0.5em;
+    margin: 0% 90% 0% 5%;
+}
+.projectPrice{
+    margin: 10% 0% 5% 5%;
+    font-size:0.7em;
+}
+.projectProgress{
+    font-size:1em;
+    margin: 5% 0% 5% 15%;
+}
+#shortList{
+    margin: 5%;
+}

@@ -1,0 +1,15 @@
+.optionImgTop{
+  float:right;
+}
+.optionInfo{
+  margin: 3vh 1vw;
+  width:28vw;
+  height:35vh;
+  text-align: left;
+}
+.optionImgBottom{
+  float:right;
+  position:relative;
+  top:-20%;
+}
+

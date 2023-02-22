@@ -1,0 +1,7 @@
+.collectionImg{
+    min-width:15vw;
+    height:30vh;
+    margin: 3vh 1vw;
+    border-radius: 10px;
+    display:inline-block;
+}

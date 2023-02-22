@@ -1,0 +1,8 @@
+#interestButton{
+    width:9vw;
+    height:14vh;
+    font-size:0.5em;
+    white-space:normal;
+    display:flex;
+    flex-direction:column;
+}

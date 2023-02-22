@@ -1,0 +1,8 @@
+.financeInfo{
+    min-width:fit-content;
+    margin: 1vh;
+}
+.financeImg{
+    max-width: 30vw;
+    max-height: 30vh;
+}

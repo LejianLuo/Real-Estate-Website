@@ -1,0 +1,11 @@
+#financeInfo{
+    min-width:23vw;
+    height: 50vh;
+    margin: 3vh 0vw 3vh 3vw;
+    border-radius: 5px;
+    display:inline-block;
+}
+#viewAll{
+    display:block;
+    margin: 25% 1vw 2vh;
+}

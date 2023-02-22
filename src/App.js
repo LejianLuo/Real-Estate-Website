@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import NavBar from "./component/Nav/NavBar"
+import SearchDiv from "./component/Search/SearchDiv"
+import FinanceCarousel from './component/Finance/FinanceCarousel'
+import ProjectBlock from "./component/NewProject/ProjectBlock";
+import OptionBlock from "./component/OptionPanel/OptionBlock";
+import HomeBlock from "./component/HomeAd/HomeBlock";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <NavBar/>
+      < SearchDiv />
+      <FinanceCarousel/>
+      <ProjectBlock/>
+      <OptionBlock/>
+      <HomeBlock/>
     </div>
   );
 }
