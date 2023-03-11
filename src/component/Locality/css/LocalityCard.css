@@ -1,0 +1,12 @@
+#table{
+    border-radius: 10px;
+    border: 1px groove rgb(158, 157, 157);
+    min-width: fit-content;
+    margin:10px;
+    
+}
+
+.link{
+    color:purple;
+}
+

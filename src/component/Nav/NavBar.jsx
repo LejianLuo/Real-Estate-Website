@@ -17,7 +17,7 @@ export default function NavBar() {
   };
 
   return (
-    <Box id="navBarWrapper" >
+    <div id="navBarWrapper" >
       <Tabs 
       value={value} 
       onChange={handleChange} 
@@ -42,7 +42,7 @@ export default function NavBar() {
         <FavoriteIcon id='favoriteBtn'/>
     </Tabs>
       
-    </Box>
+    </div>
   );
 }
 

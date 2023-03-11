@@ -1,0 +1,8 @@
+#cityCard{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+#cityCard>img{
+    margin-top: 5%;;
+    width:50%;
+}

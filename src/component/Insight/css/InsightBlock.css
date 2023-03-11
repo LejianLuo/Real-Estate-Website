@@ -1,0 +1,8 @@
+#developer,#agent{
+    text-align: center;
+}
+#tool{
+    display: flex;
+    justify-content: center;
+    gap:50px;
+}

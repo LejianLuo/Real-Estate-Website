@@ -1,43 +1,47 @@
 #navBarWrapper{
     background-color:black;
-    height:9vh;
+    height:10%;
     align-items:end;
     z-index:2;
     position:relative;
 }
 #leftBtn{
     color:white;
-    font-size: 0.5em;
-    height:7vh;
+    font-size: 0.5rem;
+    padding: 0.5rem;
     border-color:green;
-    margin-top:1vh;
+    height:40px;
+    margin-top: 10px;
 }
 #leftBtn:hover{
     border-color:green;
 }
 #rightBtn{
     color:white;
-    font-size: 0.5em;
-    height:7vh;
+    font-size: 0.5rem;
+    padding: 0.5rem;
+    float:right;
+    position:relative;
     border-color:green;
-    margin-top:1vh;
-    margin-left:30vw;
+    height:40px;
+    margin-top: 10px;
+    margin-left:30%;
 }
 #rightBtn:hover{
     border-color:green;
 }
 #loginBtn{
     color:white;
-    font-size: 0.5em;
-    height:7vh;
+    font-size: 0.5rem;
+    height:40px;
     background-color:grey;
-    margin-top:1vh;
-    margin-left:1vw;
+    margin-top:0.5rem;
+    margin-left:1rem;
 }
 #favoriteBtn{
     color:white;
-    margin-left:1.5vw;
-    margin-top:2.5vh;
+    margin-top:1rem;
+    margin-left:1rem;
 }
 #favoriteBtn:hover{
     color:green;

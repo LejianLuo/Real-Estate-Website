@@ -1,0 +1,27 @@
+#ToolCard{
+  text-align: left;
+  max-width: fit-content;
+  background-color: rgb(138, 209, 250);
+  margin:20px;
+}
+#ToolCard h3{
+  display:inline;
+  position:absolute;
+  margin-left: 10px;
+}
+#ToolCard ul{
+  list-style: none;
+  display:inline-block;
+}
+#ToolCard>img{
+  float:right;
+  position:relative;
+  margin-top:20%;
+}
+#ToolCard li{
+  margin-top:10px;
+}
+#ToolCard Button{
+   background-color: aliceblue;
+   color: black;
+}

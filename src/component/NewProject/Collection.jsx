@@ -31,7 +31,7 @@ export default function Collection() {
   );
 }
 let imgList={
-    '1':'https://static.squareyards.com/resources/images/gurgaon/tn-projectflagship/tn-smart-world-one-dxp-project-flagship1-8252.jpg',
+    '1':'https://static.squareyards.com/resources/images/gurgaon/tn-projectflagship/tn-m3m-antalya-hills-project-flagship1-6497.jpg',
     '2':'https://static.squareyards.com/resources/images/gurgaon/tn-projectflagship/tn-m3m-antalya-hills-project-flagship1-6497.jpg',
     '3':'https://static.squareyards.com/resources/images/noida/tn-projectflagship/tn-grandslam-ithum-project-flagship1.jpg',
     

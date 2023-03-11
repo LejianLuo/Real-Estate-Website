@@ -1,8 +1,8 @@
 #dropdown-button{
-    font-size: 0.5em;
-    height:6vh;
+    font-size: 0.5rem;
+    height:50%;
     color:white;
-    margin-top:2vh;
+    margin-top:1rem;
 }
 #dropdown-button:hover{
     background-color:darkgrey;

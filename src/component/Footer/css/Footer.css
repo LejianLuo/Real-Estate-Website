@@ -1,0 +1,26 @@
+#footerLists{
+    display:flex;
+    justify-content: space-evenly;
+    background-image:url('https://i.pngimg.me/thumb/f/720/e1f6a29a3baf4cf3846c.jpg');
+    color:white;
+}
+#footerLists ul{
+    margin: 30px 0 30px;
+    list-style: none;
+}
+
+#about{
+    display:flex;
+    justify-content: space-evenly;
+    background-image:url('https://i.pngimg.me/thumb/f/720/e1f6a29a3baf4cf3846c.jpg');
+    color:white;
+}
+#about>div{
+    margin:20px;
+}
+#aboutUs{
+    max-width:40%;
+}
+#about ul{
+    list-style:none;
+}
